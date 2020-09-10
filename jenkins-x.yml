@@ -8,4 +8,4 @@ pipelineConfig:
           sh: jx preview create --app $APP_NAME
           dir: /workspace/source
           name: jx-preview
-          image: gcr.io/jenkinsxio/jx-preview:0.0.0-SNAPSHOT-PR-41-6
+          image: gcr.io/jenkinsxio/jx-preview:0.0.0-SNAPSHOT-PR-41-7
